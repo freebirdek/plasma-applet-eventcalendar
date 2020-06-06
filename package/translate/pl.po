@@ -38,7 +38,7 @@ msgstr "Wydarzenia"
 
 #: ../contents/config/config.qml ../contents/ui/config/ConfigEvents.qml
 msgid "ICalendar (.ics)"
-msgstr ""
+msgstr "IKalendarz"
 
 #: ../contents/config/config.qml ../contents/ui/config/ConfigEvents.qml
 msgid "Google Calendar"
@@ -54,11 +54,11 @@ msgstr "Zaawansowane"
 
 #: ../contents/ui/AgendaEventItem.qml
 msgid "Hangout"
-msgstr ""
+msgstr "Hangout"
 
 #: ../contents/ui/AgendaEventItem.qml
 msgid "Edit"
-msgstr ""
+msgstr "Edytuj"
 
 #: ../contents/ui/AgendaEventItem.qml
 msgid "Delete Event"
@@ -161,11 +161,11 @@ msgstr "Otwórz formularz nowego wydarzenia"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Event description"
-msgstr ""
+msgstr "Opis wydarzenia"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Google Hangouts link"
-msgstr ""
+msgstr "Link do Google Hongouts"
 
 #: ../contents/ui/config/ConfigAgenda.qml
 msgid "Click Event:"
@@ -241,7 +241,7 @@ msgstr "Pokaż numery tygodni"
 
 #: ../contents/ui/config/ConfigCalendar.qml
 msgid "First day of week:"
-msgstr ""
+msgstr "Pierwszy dzień tygodnia"
 
 #: ../contents/ui/config/ConfigCalendar.qml ../contents/ui/config/ConfigGeneral.qml
 msgid "Default"
@@ -348,7 +348,7 @@ msgstr "Minutnik"
 
 #: ../contents/ui/config/ConfigGeneral.qml
 msgid "SFX:"
-msgstr ""
+msgstr "SFX:"
 
 #: ../contents/ui/config/ConfigGeneral.qml
 msgid "Choose"
@@ -460,23 +460,23 @@ msgstr "Aby zsynchronizować z Kalendarzem Google"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Visit <a href=\"%1\">%2</a> (opens in your web browser). After you login and give permission to acess your calendar, it will give you a code to paste below."
-msgstr ""
+msgstr "Wejdź na <a href=\"%1\">%2</a> (otworzy się w twojej przeglądarce). Następnie zaloguj się i pozwól na dostęp do twojego kalendarza, wtedy otrzymasz kod, który możesz wpisać poniżej."
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Copy Link"
-msgstr ""
+msgstr "Kopiuj link"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Enter code here (Eg: %1)"
-msgstr ""
+msgstr "Tutaj wpisz kod (Eg: %1)"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Submit"
-msgstr ""
+msgstr "Wyślij"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml
 msgid "Invalid Google Authorization Code"
-msgstr ""
+msgstr "Błędny Google Authorization Code"
 
 #: ../contents/ui/config/ConfigGoogleCalendar.qml ../contents/ui/config/ConfigICal.qml
 msgid "Calendars"
@@ -504,15 +504,15 @@ msgstr "Przeglądaj"
 
 #: ../contents/ui/config/ConfigICal.qml
 msgid "iCalendar (*.ics)"
-msgstr ""
+msgstr "iCalendar (*.ics)"
 
 #: ../contents/ui/config/ConfigTimezones.qml
 msgid "Tooltip"
-msgstr ""
+msgstr "Etykieta"
 
 #: ../contents/ui/config/ConfigTimezones.qml
 msgid "Cannot deselect Local time from the tooltip"
-msgstr ""
+msgstr "Nie możesz odznaczyć czasu lokalnego z etykiety"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Data"
@@ -520,7 +520,7 @@ msgstr "Dane"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "API App Id:"
-msgstr ""
+msgstr "ID API App:"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "City Id:"
@@ -566,15 +566,15 @@ msgstr "Jednostki:"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Celsius"
-msgstr ""
+msgstr "Celsius"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheit"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Kelvin"
-msgstr ""
+msgstr "Kelvin"
 
 #: ../contents/ui/config/ConfigWeather.qml
 msgid "Text"
@@ -639,7 +639,7 @@ msgstr "do"
 
 #: ../contents/ui/EditEventForm.qml
 msgid "Event Title"
-msgstr ""
+msgstr "Tytuł wydarzenia"
 
 #: ../contents/ui/EditEventForm.qml ../contents/ui/LocaleFuncs.js
 msgid "All Day"
@@ -647,7 +647,7 @@ msgstr "Cały dzień"
 
 #: ../contents/ui/EditEventForm.qml
 msgid "Add location"
-msgstr ""
+msgstr "Dodaj miejsce"
 
 #: ../contents/ui/EditEventForm.qml ../contents/ui/NewEventForm.qml
 msgid "[No Calendars]"
@@ -655,7 +655,7 @@ msgstr "[Brak kalendarzy]"
 
 #: ../contents/ui/EditEventForm.qml
 msgid "Add description"
-msgstr ""
+msgstr "Dodaj opis"
 
 #: ../contents/ui/EditEventForm.qml
 msgid "&Save"
@@ -672,12 +672,12 @@ msgstr "<b>Wersja:</b> %1"
 #: ../contents/ui/LocaleFuncs.js
 msgctxt "event time on the hour (24 hour clock)"
 msgid "h"
-msgstr ""
+msgstr "h"
 
 #: ../contents/ui/LocaleFuncs.js
 msgctxt "event time (24 hour clock)"
 msgid "h:mm"
-msgstr ""
+msgstr "h:mm"
 
 #: ../contents/ui/LocaleFuncs.js
 msgctxt "event time on the hour (12 hour clock)"
@@ -748,11 +748,11 @@ msgstr ""
 
 #: ../contents/ui/PopupView.qml
 msgid "Error fetching weather."
-msgstr ""
+msgstr "Błąd wyświetlania pogody"
 
 #: ../contents/ui/PopupView.qml
 msgid "Weather API limit reached, will try again soon."
-msgstr ""
+msgstr "Przekroczony limit Weather API, spróbuj później"
 
 #: ../contents/ui/TimerInputView.qml
 msgid "&Start"
